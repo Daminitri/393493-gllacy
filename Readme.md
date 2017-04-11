@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Анастасия Еловикова](https://up.htmlacademy.ru/htmlcss/17/user/393493).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Маркелов](https://htmlacademy.ru/profile/nicolamarkelov).
 
 ---
 
